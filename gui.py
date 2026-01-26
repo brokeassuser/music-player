@@ -2,7 +2,7 @@ from tkinter import *
 
 root = Tk()
 root.title("Music Player App")
-root.geometry("800x1080")
+root.geometry("1920x1080")
 
 e =Entry(root,width=50,borderwidth=1.5,fg="blue",bg="yellow")
 e.grid(row=0,column=0)
